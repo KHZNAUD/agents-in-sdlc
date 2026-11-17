@@ -111,7 +111,7 @@ Parabéns! Você instalou e autenticou o GitHub Copilot CLI com sucesso. Você a
 - confiar em um diretório para o Copilot CLI trabalhar com ele.
 - verificar se a instalação está funcionando corretamente.
 
-Agora que o Copilot CLI está instalado, vamos fornecer ao Copilot algum contexto sobre o projeto. Continue para a [Lição 2 - Instruções personalizadas com a CLI][next-lesson].
+Agora que o Copilot CLI está instalado, você fará sua primeira alteração: peça ao Copilot CLI para exibir as classificações por estrelas nos cartões dos jogos. Continue para a [Lição 2: Adicione classificações por estrelas: uma vitória rápida][next-lesson].
 
 ## Recursos
 
@@ -120,7 +120,7 @@ Agora que o Copilot CLI está instalado, vamos fornecer ao Copilot algum context
 - [Usar o Copilot CLI][using-copilot-cli]
 
 [previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-custom-instructions/
+[next-lesson]: ../2-add-star-rating/
 [install-copilot-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [install-npm]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-npm-all-platforms
 [install-winget]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-winget-windows
